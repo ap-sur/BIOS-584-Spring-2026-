@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a0f3b92-5456-425b-9194-89e0f5244091" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BIOS584_Spring26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 1 and 2 - String Processing and User Input/Week 1 Lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Intermediate Python Datacamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Module 3 Notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Module 3 and 4 Exercises_BLANK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Password Generator Applet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Password Generator Validation While loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Password Generator Validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/PasswordGeneratorStreamLitapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Patient Diagnoses from Symptoms.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38a6LE7nlfLZyO3gURGk0rhxyo4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Application 2 Patient Diagnoses from Symptoms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Intermediate Python Datacamp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 3 Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 3 and 4 Exercises_BLANK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator Applet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator StreamLit app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator StreamLit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 0 Lab.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1 InClass Code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1 Lab Password Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1 Lab Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Week 1 Lab.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lylae/PycharmProjects/BIOS584_Spring26&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lylae\PycharmProjects\BIOS584_Spring26" />
+      <recent name="C:\Users\lylae\OneDrive - Emory\BIOS584_PythonProgrammingNonBios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lylae\PycharmProjects\BIOS584_Spring26\Weeks 1 and 2 - String Processing and User Input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Module 3 Notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOS584_Spring26" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Module 3 Notes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Module 3 Notes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a0f3b92-5456-425b-9194-89e0f5244091" name="Changes" comment="" />
+      <created>1769025276441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769025276441</updated>
+      <workItem from="1769025277526" duration="2175000" />
+      <workItem from="1769151213839" duration="9858000" />
+      <workItem from="1769192086526" duration="1187000" />
+      <workItem from="1769264610173" duration="6441000" />
+      <workItem from="1770221972236" duration="39000" />
+      <workItem from="1770919401038" duration="40039000" />
+      <workItem from="1771009360312" duration="12000" />
+      <workItem from="1771031524050" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Weeks 1 and 2 - String Processing and User Input/Week 1 Lab Test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists/Password Generator Validation.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Module_3_and_4_Exercises_BLANK.coverage" NAME="Module 3 and 4 Exercises_BLANK Coverage Results" MODIFIED="1770999805424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Password_Generator_StreamLit.coverage" NAME="Password Generator StreamLit Coverage Results" MODIFIED="1770933916016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Week_1_Lab_Test.coverage" NAME="Week 1 Lab Test Coverage Results" MODIFIED="1769186928339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Week_1_Lab.coverage" NAME="Week 1 Lab Coverage Results" MODIFIED="1769273176433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Intermediate_Python_Datacamp.coverage" NAME="Intermediate Python Datacamp Coverage Results" MODIFIED="1770920294276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Password_Generator_Applet.coverage" NAME="Password Generator Applet Coverage Results" MODIFIED="1770951263440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Password_Generator_StreamLit_app.coverage" NAME="Password Generator StreamLit app Coverage Results" MODIFIED="1770937855111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Week_0_Lab.coverage" NAME="Week 0 Lab Coverage Results" MODIFIED="1769030441909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Module_3_Notes.coverage" NAME="Module 3 Notes Coverage Results" MODIFIED="1770943703152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Application_2_Patient_Diagnoses_from_Symptoms.coverage" NAME="Application 2 Patient Diagnoses from Symptoms Coverage Results" MODIFIED="1770943789204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Password_Generator_Validation.coverage" NAME="Password Generator Validation Coverage Results" MODIFIED="1770998378440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weeks 3 and 4 - Control Flow, Dicts and Lists" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Week_1_Lab_Password_Generator.coverage" NAME="Week 1 Lab Password Generator Coverage Results" MODIFIED="1769273397440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIOS584_Spring26$Week_1_InClass_Code.coverage" NAME="Week 1 InClass Code Coverage Results" MODIFIED="1769229112311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
